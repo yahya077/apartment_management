@@ -1,6 +1,5 @@
 # apartmentmanagement
-
-Apartment management ui with flutter
+![main_screen](https://user-images.githubusercontent.com/46659611/80418589-58145200-88e0-11ea-9bce-dde7b2f32322.JPG)
 
 ## Getting Started
 
